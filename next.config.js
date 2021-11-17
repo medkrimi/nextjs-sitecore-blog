@@ -1,5 +1,7 @@
+const url = process.env.SITECORE_CONTENTHUB_PUBLIC_URL;
+const { hostname } = new URL(url);
 module.exports = {
   images: {
-    domains: ['mohk-lighthouse-401.stylelabs.io','mohk-edgefinancial-410.stylelabs.io', 'dummyimage.com'],
+    domains: [ hostname , 'dummyimage.com'],
   },
 }
