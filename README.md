@@ -33,7 +33,7 @@ To create an authentication key for the Delivery API:
 
 # Ready to go?!
 You can deploy this app to the cloud with [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-Use the Deploy Button in this section [Deploy on your own](#deploy-on-your-own)
+Use the Deploy Button in this section [Deploy your own](#deploy-your-own)
 
 Or if you need to work locally and make some changes, go to [Manual Setup](#manual-setup) 
 
