@@ -41,7 +41,7 @@ Or if you need to work locally and make some changes, go to [Manual Setup](#manu
 
 Using the Deploy Button below, you'll deploy the Next.js project as well as connect it to your Sitecore Content Hub sandbox using Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmedkrimi%2Fnext.js-blog-sitecore-demo&env=SITECORE_CONTENTHUB_PUBLIC_URL,SITECORE_CONTENTHUB_EDGE_DELIVERY_ENDPOINT,SITECORE_CONTENTHUB_PREVIEW_ACCESS_TOKEN,SITECORE_CONTENTHUB_DELIVERY_ACCESS_TOKEN,SITECORE_CONTENTHUB_CONTENTCOLLECTION_NAME&project-name=nextjs-blog-sitecore-demo&demo-title=Next.js%20Blog%20Sitecore%20Demo&demo-description=A%20statically%20generated%20blog%20example%20using%20Next.js%20and%20Sitecore%20Experience%20Edge%20for%20Content%20Hub.%20&demo-url=https%3A%2F%2Fnext-js-blog-sitecore-demo.vercel.app&demo-image=https%3A%2F%2Fnext-js-blog-sitecore-demo.vercel.app%2Fpreview.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmedkrimi%2Fnextjs-sitecore-blog&env=SITECORE_CONTENTHUB_PUBLIC_URL,SITECORE_CONTENTHUB_EDGE_DELIVERY_ENDPOINT,SITECORE_CONTENTHUB_PREVIEW_ACCESS_TOKEN,SITECORE_CONTENTHUB_DELIVERY_ACCESS_TOKEN,SITECORE_CONTENTHUB_CONTENTCOLLECTION_NAME&project-name=nextjs-blog-sitecore-demo&demo-title=Next.js%20Blog%20Sitecore%20Demo&demo-description=A%20statically%20generated%20blog%20example%20using%20Next.js%20and%20Sitecore%20Experience%20Edge%20for%20Content%20Hub.%20&demo-url=https%3A%2F%2Fnext-js-blog-sitecore-demo.vercel.app&demo-image=https%3A%2F%2Fnext-js-blog-sitecore-demo.vercel.app%2Fpreview.png)
 
 ## Manual Setup
 ### STEP 1. Setup environment variables
